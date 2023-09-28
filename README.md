@@ -1,5 +1,7 @@
 # Домашнее задание к лекции «Unit-тестирование». Задача №1
 
+[![Build status](https://ci.appveyor.com/api/projects/status/jh32v8bqf8trybpe?svg=true)](https://ci.appveyor.com/project/AlexAdutov/test-ci1)
+
 **Важно**: каждая задача выполняется в виде отдельного проекта с собственным GitHub репозиторием.
 
 **Важно**: ESLint не должен выдавать ошибок.
@@ -45,7 +47,11 @@ npm test
 
 ## Чистые функции
 
+<<<<<<< HEAD
 [![Build status](https://ci.appveyor.com/api/projects/status/jh32v8bqf8trybpe?svg=true)](https://ci.appveyor.com/project/AlexAdutov/test-ci1)
+=======
+
+>>>>>>> e0beb53 (readme fix)
 
 ### Легенда
 
@@ -67,8 +73,11 @@ npm test
 Убедитесь, что вы обеспечили 100% покрытие тестами.
 
 ---
+<<<<<<< HEAD
 
 ## Matchers
 
 
 ---
+=======
+>>>>>>> e0beb53 (readme fix)
